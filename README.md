@@ -10,6 +10,7 @@ Tarefas:
 
 - os botoes devem ficar fixos na tela, no top "0".
 - clone este repositório para o seu próprio, deixando apenas uma pasta root para futura manutenção de implantação.
+- todo projeto deve estar responsivo.
 
 \_\_\_PRODUTOS
 
