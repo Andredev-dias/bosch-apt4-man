@@ -9,6 +9,7 @@ npm run dev
 Tarefas:
 
 - os botoes devem ficar fixos na tela, no top "0".
+- clone este repositório para o seu próprio, deixando apenas uma pasta root para futura manutenção de implantação.
 
 \_\_\_PRODUTOS
 
@@ -48,6 +49,7 @@ https://vitejs.dev/
 \_\_\_GRÁFICOS
 
 - Usando o react router dom, criar uma rota para acessar uma nova página contendo 2 gráficos de sua escolha referentes a biblioteca recharts.
+- Usando a mesma biblioteca criar os paths especificos para cada parte do projeto que esta separado por renderização condicional, conferir a documentação do react router. Siga a arquitetura do projeto para nao haverem complicações.
 
 https://recharts.org/en-US/
 
